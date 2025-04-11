@@ -1,7 +1,9 @@
 <h2 align="center">Hey there, I'm <b><a href="https://www.linkedin.com/in/mdrakibswe/" target="_blank">Md. Rakib</a></b> 👋
   </h2> <br/>
   <p align="center">
-![](https://komarev.com/ghpvc/?username=rakib-2000&style=plastic)
+    
+<img src="https://komarev.com/ghpvc/?username=rakib-2000&style=plastic" />
+
   </p>
 <!--
 **rakib-2000/rakib-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
